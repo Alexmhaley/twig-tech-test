@@ -8,7 +8,7 @@ The code for the function is in the split_array.py file, it can either be run se
 
 I have included some tests, NOTE: the tests will only run if you have a version of python 3.7 installed
 
-these can be run by starting the virtual environment by using the command:
+these can be run by starting the virtual environment by going to the pase directory of the repo and using the command:
 
 source venv/bin/activate 
 
